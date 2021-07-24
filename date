@@ -1,0 +1,1 @@
+const myDate = new Date('Aug 24, 2021 08:00:00');
